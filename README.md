@@ -2,7 +2,7 @@
 
 Lecture notes, programming assignment and finished codes in Machine Learning course by Andrew Ng at Coursera.
 
-Assignment directory contains all the original assignment files (zipped)
+Assignment directory contains all the original assignment files (zipped). `machine-learning-ex\* `  contain all finished codes.
 
 ex1: implement linear regression and get to see it work
 on data.
